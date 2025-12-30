@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Large datasets (not tracked due to GitHub size limits)
+*.csv
+logs/
+*.log
+*.db
